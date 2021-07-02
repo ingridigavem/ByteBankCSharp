@@ -1,0 +1,16 @@
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\bin\Debug\netcoreapp3.1\ByteBank.InternalSystem.exe
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\bin\Debug\netcoreapp3.1\ByteBank.InternalSystem.deps.json
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\bin\Debug\netcoreapp3.1\ByteBank.InternalSystem.runtimeconfig.json
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\bin\Debug\netcoreapp3.1\ByteBank.InternalSystem.runtimeconfig.dev.json
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\bin\Debug\netcoreapp3.1\ByteBank.InternalSystem.dll
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\bin\Debug\netcoreapp3.1\ByteBank.InternalSystem.pdb
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\bin\Debug\netcoreapp3.1\ByteBank.Models.dll
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\obj\Debug\netcoreapp3.1\ByteBank.InternalSystem.csproj.AssemblyReference.cache
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\obj\Debug\netcoreapp3.1\ByteBank.InternalSystem.AssemblyInfoInputs.cache
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\obj\Debug\netcoreapp3.1\ByteBank.InternalSystem.AssemblyInfo.cs
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\obj\Debug\netcoreapp3.1\ByteBank.InternalSystem.csproj.CoreCompileInputs.cache
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\obj\Debug\netcoreapp3.1\ByteBank.InternalSystem.csproj.CopyComplete
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\obj\Debug\netcoreapp3.1\ByteBank.InternalSystem.dll
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\obj\Debug\netcoreapp3.1\ByteBank.InternalSystem.pdb
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\obj\Debug\netcoreapp3.1\ByteBank.InternalSystem.genruntimeconfig.cache
+D:\code\GitHub\byte_bank\ByteBank.InternalSystem\ByteBank.InternalSystem\bin\Debug\netcoreapp3.1\ByteBank.Models.xml

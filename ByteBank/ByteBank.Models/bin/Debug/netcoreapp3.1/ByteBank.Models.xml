@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBank.Models</name>
+    </assembly>
+    <members>
+        <member name="T:ByteBank.Accounts.CheckingAccount">
+            <summary>
+            Define uma Conta Corrente do banco ByteBank.
+            </summary>
+        </member>
+        <member name="M:ByteBank.Accounts.CheckingAccount.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Cria uma instância de ContaCorrente com os argumentos utilizados.
+            </summary>
+            <param name="branch">Representa o valor da propriedade <see cref="P:ByteBank.Accounts.CheckingAccount.Branch"/> e deve possuir um valor maior do que zero.</param>
+            <param name="number">Representa o valor da propriedade <see cref="P:ByteBank.Accounts.CheckingAccount.Number"/> e deve possuir um valor maior do que zero.</param>
+        </member>
+        <member name="M:ByteBank.Accounts.CheckingAccount.Withdraw(System.Double)">
+            <summary>
+            Realiza o saque e atualiza o valor da propriedade <see cref="P:ByteBank.Accounts.CheckingAccount.Balance"/>.
+            </summary>
+            <exception cref="T:System.ArgumentException">Exceção lançada quando um valor negativo é utilizado no argumento <paramref name="amount"/>.</exception>
+            <exception cref="T:ByteBank.Exceptions.InsufficientBalanceException">Execção lançada quando o valor de <paramref name="amount"/> é maior que o valor da propriedade <see cref="P:ByteBank.Accounts.CheckingAccount.Balance"/>.</exception>
+            <param name="amount">Representa a quantia de saque e deve ser maior que zero e menor que <see cref="P:ByteBank.Accounts.CheckingAccount.Balance"/>.</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ByteBank.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ByteBank.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ByteBank.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ByteBank.Models/1.0.0": {
+      "type": "project",
+      "path": "../ByteBank.Models/ByteBank.Models.csproj",
+      "msbuildProject": "../ByteBank.Models/ByteBank.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ByteBank.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ingridi.marques\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ingridi.marques\\Documents\\GitHub\\ByteBankCSharp\\ByteBank\\ByteBank.ImportationExportation\\ByteBank.ImportationExportation.csproj",
+      "projectName": "ByteBank.ImportationExportation",
+      "projectPath": "C:\\Users\\ingridi.marques\\Documents\\GitHub\\ByteBankCSharp\\ByteBank\\ByteBank.ImportationExportation\\ByteBank.ImportationExportation.csproj",
+      "packagesPath": "C:\\Users\\ingridi.marques\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ingridi.marques\\Documents\\GitHub\\ByteBankCSharp\\ByteBank\\ByteBank.ImportationExportation\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ingridi.marques\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\ingridi.marques\\Documents\\GitHub\\ByteBankCSharp\\ByteBank\\ByteBank.Models\\ByteBank.Models.csproj": {
+              "projectPath": "C:\\Users\\ingridi.marques\\Documents\\GitHub\\ByteBankCSharp\\ByteBank\\ByteBank.Models\\ByteBank.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
