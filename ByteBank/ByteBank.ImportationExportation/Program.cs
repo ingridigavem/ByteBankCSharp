@@ -5,22 +5,22 @@ using ByteBank.Accounts;
 using ByteBank.Models;
 
 namespace ByteBank.ImportationExportation {
-    partial class Program {
+     class Program {
         static void Main(string[] args) {
-
-            //var linhasLidas = File.ReadAllLines("contas.txt");
-            //foreach (var linha in linhasLidas) {
-            //    Console.WriteLine(linha);
-
-            //}
+            Console.WriteLine();
+            Console.WriteLine("####### Leitura de arquivo de texto #######");
+            Console.WriteLine();
             foreach (var linha in File.ReadLines("contas.txt")) {
-
-            Console.WriteLine(linha);
-            
+                Console.WriteLine(linha);
             }
 
+            Console.WriteLine();
+            Console.WriteLine("####### Fim da leitura do arquivo de texto #######");
+            Console.WriteLine();
+
+            Console.WriteLine("A execução finalizou. Tecle Enter para finalizar...");
             Console.ReadLine();
         }
 
-    }
+     }
 }
