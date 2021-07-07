@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>BYTEBANK</h1>
+    <p class="lead">Bem vindo(a) ao Fórum do ByteBank!</p>
+    <p><button id="forumBtn" class="btn btn-primary btn-lg">Acessar o fórum &raquo;</button></p>
+</div>
+
+@Session Scripts{
+
+<script>
+    const botaoAcessoForum = document.querySelector("#forumBtn");
+    botaoAcessoForum.addEventListener("click", () => alert("Desculpe, não é possível acessar o fórum. O fórum ainda está em construção."));
+     
+</script>
+
+}
